@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7596965
+color:
+  saturation: 0.1755328
+  lightness: 0.04159583
+  brandStrength: 0.2606773
+  rhythmicContrast: 0.6698924
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Carpe Diem Pro
