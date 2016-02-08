@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Carpe Diem Pro]]></title>
         <description><![CDATA[Carpe Diem Pro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carpe-diem-pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 18:24:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 18:24:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carpe-diem-pro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://vimeo.com/1258308</p>]]></description>
-            <link>undefinedf7a1423e-e5a7-4e14-aa1c-4748201fa388/index.html</link>
+            <link>https://thegrid.ai/carpe-diem-pro/f7a1423e-e5a7-4e14-aa1c-4748201fa388/index.html</link>
             <guid isPermaLink="false">f7a1423e-e5a7-4e14-aa1c-4748201fa388</guid>
-            <pubDate>Mon, 08 Feb 2016 18:23:32 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 18:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
